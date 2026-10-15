@@ -7,9 +7,7 @@ Core machine learning algorithms built from scratch in Python. The goal is to un
 
 ## Contents
 
-| Topic | File | Status |
-|-------|------|--------|
-| Gradient descent | `gradient_descent.py` | Done |
+- Gradient descent: [grad.py](https://github.com/namitha9eshan/machine_learning_101/blob/main/grad.py)
 
 More algorithms will be added as the repo grows.
 
